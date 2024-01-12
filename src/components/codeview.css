@@ -1,0 +1,11 @@
+.cm-keyword {
+
+}
+
+.cm-invalid {
+    text-decoration: underline red;
+}
+
+.cm-highlight {
+    background-color: yellow;
+}
